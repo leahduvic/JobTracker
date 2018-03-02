@@ -1,0 +1,11 @@
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\bin\Debug\netcoreapp2.0\JobTracker.deps.json
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\bin\Debug\netcoreapp2.0\JobTracker.runtimeconfig.json
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\bin\Debug\netcoreapp2.0\JobTracker.runtimeconfig.dev.json
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\bin\Debug\netcoreapp2.0\JobTracker.dll
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\bin\Debug\netcoreapp2.0\JobTracker.pdb
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\obj\Debug\netcoreapp2.0\JobTracker.csprojResolveAssemblyReference.cache
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\obj\Debug\netcoreapp2.0\JobTracker.csproj.CoreCompileInputs.cache
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\obj\Debug\netcoreapp2.0\JobTracker.AssemblyInfoInputs.cache
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\obj\Debug\netcoreapp2.0\JobTracker.AssemblyInfo.cs
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\obj\Debug\netcoreapp2.0\JobTracker.dll
+C:\Users\leahe_000\workspace\JobTracker\JobTracker\JobTracker\obj\Debug\netcoreapp2.0\JobTracker.pdb
